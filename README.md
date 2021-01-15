@@ -6,5 +6,10 @@ Math links as notes.
 ### Linear algebra
 
 #### Abstract
+[Dot Product Duality-- 3b1b](https://www.youtube.com/watch?v=LyGKycYT2v0)
 
-[Inner Product Space] https://www.youtube.com/watch?v=UUmoluM0D-M
+[Defn Inner Product Space-- Dr Peyam](https://www.youtube.com/watch?v=vN0kZ4PSHv0)
+
+[Inner Product Space-- Chegg](https://www.youtube.com/watch?v=UUmoluM0D-M)
+
+[Complex Inner Products-- Lorenzo Sadun](https://www.youtube.com/watch?v=CKwSXwxeAQc)
