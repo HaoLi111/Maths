@@ -13,3 +13,7 @@ Math links as notes.
 [Inner Product Space-- Chegg](https://www.youtube.com/watch?v=UUmoluM0D-M)
 
 [Complex Inner Products-- Lorenzo Sadun](https://www.youtube.com/watch?v=CKwSXwxeAQc)
+
+[Self-Adjoint Operators-- Sheldon Axler](https://www.youtube.com/watch?v=Sp_zKfuuawo)
+
+[Self-Adjoint Transformations-- MathTheBeautiful](https://www.youtube.com/watch?v=QpNogWizbpw)
