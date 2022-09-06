@@ -17,3 +17,11 @@ Math links as notes.
 [Self-Adjoint Operators-- Sheldon Axler](https://www.youtube.com/watch?v=Sp_zKfuuawo)
 
 [Self-Adjoint Transformations-- MathTheBeautiful](https://www.youtube.com/watch?v=QpNogWizbpw)
+
+
+### Numerical Methods
+
+[Power Method for finding eigenvalue](https://www.youtube.com/watch?v=M_lj6cCU4Y4)
+[Unshifted QR](https://www.youtube.com/watch?v=XpaG3zGThXE)
+[QR factorization(by Gram Schmit) --Dr Peyam](https://www.youtube.com/watch?v=J41Ypt6Mftc)
+[QR factorization(by Givens Rotations Matrix) --Isaac Amornortey Yowetu](https://www.youtube.com/watch?v=MxZy0LLEDLY)
