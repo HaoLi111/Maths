@@ -22,6 +22,13 @@ Math links as notes.
 ### Numerical Methods
 
 [Power Method for finding eigenvalue](https://www.youtube.com/watch?v=M_lj6cCU4Y4)
+
 [Unshifted QR](https://www.youtube.com/watch?v=XpaG3zGThXE)
+
 [QR factorization(by Gram Schmit) --Dr Peyam](https://www.youtube.com/watch?v=J41Ypt6Mftc)
+
 [QR factorization(by Givens Rotations Matrix) --Isaac Amornortey Yowetu](https://www.youtube.com/watch?v=MxZy0LLEDLY)
+
+[Givens Rotations-Advanced LAFF](https://www.youtube.com/watch?v=XAvioT6ALAg)
+
+[(example of) Givens Rotation-- Poujh](https://www.youtube.com/watch?v=lxQl2IO_sSA)
